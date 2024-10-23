@@ -33,7 +33,7 @@ Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
 -Assign Permissions: ost-config.php
 Disable inheritance -> Remove All
 New Permissions -> Everyone -> All
--
+
 <h2>Configuration Steps</h2>
 
 <p>
