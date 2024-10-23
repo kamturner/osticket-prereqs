@@ -48,6 +48,7 @@ This step shows how to enable IIS in windows with CGI. This will allow you to ma
 (https://imgur.com/a/8wyyOGu)
 In the following step, you can install PHP manager for IIS. Next, unzip the PHP file into the C:\PHP folder, then install the VC_redist.x86.exe. file. After that install the  MySQL 5.5.62 file and then launch. 
 
-
+(https://imgur.com/a/4YcyjJ4)
+This step requires you to open osticket after opening Heidi and creating a new session. After that you can create new users in osticket and assign permmissions.
 
 
